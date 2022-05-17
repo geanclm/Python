@@ -7,3 +7,4 @@
 - [x] Princípio de Pareto
 - [x] Verificação do número primo
 - [ ] Matriz de Eisenhower
+- [x] Jogo Jokenpô
